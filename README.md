@@ -1,3 +1,10 @@
+This is the [bash-git-prompt v2.7.1](https://github.com/magicmonty/bash-git-prompt/tree/2.7.1) project with the following enhancements:
+
+* Add GIT_PROMPT_SYMBOLS_PRETAG
+* Add GIT_PROMPT_DETACHED_HEAD
+
+---
+
 # Informative git prompt for bash and fish
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/magicmonty/bash-git-prompt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
